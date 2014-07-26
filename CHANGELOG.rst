@@ -1,5 +1,9 @@
-sc_slicekit_support Change Log
-==============================
+sliceKIT support library change log
+===================================
+
+2.0.0
+-----
+  * Restructured
 
 1.0.3
 -----
