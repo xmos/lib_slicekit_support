@@ -1,24 +1,4 @@
-sliceKIT board support library
-==============================
-.. rheader::
-
-   sliceKIT support |version|
-
-sliceKIT board support library
-------------------------------
-
-The sliceKIT support library for managing the flash port
-multiplex on the xCORE sliceKIT core board.
-
-Software version and dependencies
-.................................
-
-This document pertains to version |version| of the sliceKIT support
-library. It is
-intended to be used with version 13.x of the xTIMEcomposer studio tools.
-
-The library does not have any dependencies (i.e. it does not rely on any
-other libraries).
+.. include:: ../../../README.rst
 
 API
 ---
@@ -46,3 +26,12 @@ the pins on the slice cards connected to these ports.
 If this library is used when the application target is not
 ``SLICEKIT-L2``, ``SLICEKIT-U16``, ``SLICEKIT-A16`` or
 ``SLICEKIT-L16`` then this module will do nothing.
+
+|appendix|
+
+Known Issues
+------------
+
+There are no known issues.
+
+.. include:: ../../../CHANGELOG.rst
