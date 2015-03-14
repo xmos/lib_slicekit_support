@@ -1,0 +1,5 @@
+Product,Test Group,Test,Config,Environment,Result
+lib_slicekit_support,standard_lib_tests,changelog_exists,,,PASS
+lib_slicekit_support,standard_lib_tests,source_check,,,FAIL
+lib_slicekit_support,standard_lib_tests,doc_check,,,FAIL
+lib_slicekit_support,standard_lib_tests,readme_check,,,FAIL
