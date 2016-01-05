@@ -1,4 +1,4 @@
-// Copyright (c) 2015, XMOS Ltd, All rights reserved
+// Copyright (c) 2016, XMOS Ltd, All rights reserved
 #ifdef __slicekit_conf_h_exists__
 #include "slicekit_conf.h"
 #endif
