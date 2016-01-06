@@ -2,4 +2,4 @@ SOURCE_DIRS = src/$(TARGET)
 
 OPTIONAL_HEADERS += slicekit_conf.h
 
-VERSION = 2.0.0
+VERSION = 2.0.1
