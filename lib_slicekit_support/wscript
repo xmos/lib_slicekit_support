@@ -1,0 +1,5 @@
+def use_module(bld):
+    source_dir = 'src/' + bld.env.TARGET_ARCH
+    source = bld.path.ant_glob(source_dir + '/*')
+    bld.module(
+        source=source, optional_headers='slicekit_conf.h', version='2.0.1')
